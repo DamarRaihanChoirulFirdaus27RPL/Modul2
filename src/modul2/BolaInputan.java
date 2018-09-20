@@ -33,7 +33,7 @@ public class BolaInputan {
     }
     public void showVolume(){
         double temp;
-        temp = 4*pi*jariJari*jariJari/3;
+        temp = 4*pi*jariJari*jariJari*jariJari/3;
         System.out.println("Volume Bola        =  "+temp);
     }
     
